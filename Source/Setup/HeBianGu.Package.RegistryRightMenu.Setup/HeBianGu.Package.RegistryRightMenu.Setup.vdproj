@@ -188,7 +188,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:HeBianGu.Package.RegistryRightMenu.Setup"
         "ProductCode" = "8:{27A9A8D6-3D45-45A6-9437-E93FFFB8750B}"
-        "PackageCode" = "8:{625818F1-F038-4A16-B764-67EA4BF392EB}"
+        "PackageCode" = "8:{EF1FBDCE-5E39-44CA-AA17-DC880F333489}"
         "UpgradeCode" = "8:{E0B0716F-39BB-490F-815A-542C058119CB}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
